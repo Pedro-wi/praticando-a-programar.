@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+char nome[50];
+printf("Qual e seu nome ?");
+scanf("%s",nome);
+printf("Ser me segue no Instagram,%s!\n",nome);
+return 0;
+}
